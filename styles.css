@@ -1,0 +1,142 @@
+
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 532.5%;
+}
+.intro{
+    color: #66BFBF;
+    font-weight: normal;
+}/*this is header css*/
+h2{
+    color: #1e836c;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal; 
+
+}
+.first-header{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    position: relative;
+    left: 250px;
+}
+.second-header{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    position: relative;
+    left: -200px;
+}
+.third-header{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+/*this is paragraph css*/
+.first-paragraph{
+    color: #6b6b6b;
+    margin: 70px 0 70px;
+    width: 480px;
+    position: relative;
+    left: 350px;
+    word-spacing: 0.7em;
+    line-height: 30px;
+}
+.second-paragraph{
+    word-spacing: 0.5em;
+    line-height: 30px;
+    color: #6b6b6b;
+    width: 480px;
+    position: relative;
+    left: 590px;
+}
+.third-paragraph{
+    word-spacing: 0.5em;
+    line-height: 30px;
+    color: #6b6b6b;
+    width: 480px;
+    position: relative;
+    left: 160px;
+}
+.fourth-paragraph{
+    word-spacing: 0.5em;
+    line-height: 30px;
+    color: #6b6b6b;
+    width: 480px;
+    position: relative;
+    left: 350px ;
+}
+.first{
+   background-color: #E4F9f5; 
+   padding-top: 100px;
+}
+.pro{
+    text-decoration-line: underline;
+}
+/*This is img css*/
+.myimg{
+    width: 200px;
+    margin-top: 50px;
+}
+.middle{
+    position: relative;
+    left: -200px;
+    top: 150px;
+    width: 180px;
+}
+.fruit{
+    width:200px ;
+    position: relative;
+    left: 270px;
+    top:150px ;
+}
+/*This is a div css*/
+.middle-container{
+background-color: white;
+}
+.bottom-container{
+background-color: #66BFBF;
+margin: 26 0 0 0;
+padding: 50px 0 20px 0
+}
+/*that is bottom footer css*/
+th{
+    position: relative;
+    left: 460px;
+}
+.email{
+    background-color: #66BFBF;
+    width: 30px;
+}
+hr{
+    border-style: dotted none none;
+    border-radius: 0px;
+    border-width: 7px;
+    border-color: grey;
+    width: 5%;
+    
+}
+.end-footer{
+    position: relative;
+    top: 20px;
+    left: -27px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px 10px -10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+    color: #EAF6F6;
+}
